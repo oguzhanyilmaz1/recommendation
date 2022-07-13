@@ -21,12 +21,12 @@ First one is using ratings from dataset as a "Y" groundtruth
 
 Second one is using scores calcuated in processor.py. (Takes long time)
 
-
 ***There are two optional model
 To change this option make comment the line 18 or 19 in main.py.(Default is first option)
 First one is Only Embedding Layer Model
 
 Second one Embedding layer+ Flattaen+ Dense Layers Model
+
 --------------------------------------------------------------------------------------------
 processor.py:
 --Duties--
